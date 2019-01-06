@@ -1,0 +1,37 @@
+{
+    "sem1": [{
+        "type": "course",
+        "startTime": "2018-09-24",
+        "endTime": "2018-12-14"
+    },
+    {
+        "type": "vacation",
+        "startTime": "2018-12-15",
+        "endTime": "2019-01-06"
+    },
+    {
+        "type": "course",
+        "startTime": "2019-01-07",
+        "endTime": "2019-01-18"
+    },
+    {
+        "type": "exam",
+        "startTime": "2019-01-19",
+        "endTime": "2019-02-08"
+    },
+    {
+        "type": "vacation",
+        "startTime": "2019-02-09",
+        "endTime": "2019-02-17"
+    }],
+    "sem2": [{
+        "type": "course",
+        "startTime": "2019-02-18",
+        "endTime": "2019-05-24"
+    },
+    {
+        "type": "exam",
+        "startTime": "2019-05-25",
+        "endTime": "2019-06-14"
+    }]
+}

@@ -1,0 +1,58 @@
+{
+    "monday": null,
+    "tuesday": [{
+        "name": "(SSI) Sisteme de incredere",
+        "shortName": "SSI",
+        "type": "project",
+        "parity": "always",
+        "location": "PR 606",
+        "startHour": "8",
+        "endHour": "10"
+    },
+    {
+        "name": "(SSI) Sisteme de incredere",
+        "shortName": "SSI",
+        "type": "course",
+        "parity": "always",
+        "location": "PR 606",
+        "startHour": "8",
+        "endHour": "10"
+    }],
+    "wednesday": null,
+    "thursday": [{
+        "name": "(TASCR) Topici Avansate in Securitatea Calculatoarelor si Retelelor",
+        "shortName": "TASCR",
+        "type": "course",
+        "parity": "always",
+        "location": "BN S-05",
+        "startHour": "17",
+        "endHour": "19"
+    },
+    {
+        "name": "(TASCR) Topici Avansate in Securitatea Calculatoarelor si Retelelor",
+        "shortName": "TASCR",
+        "type": "project",
+        "parity": "always",
+        "location": "BN S-05",
+        "startHour": "19",
+        "endHour": "21"
+    }],
+    "friday": [{
+        "name": "(SOSM) Sisteme de operare pentru sisteme mobile",
+        "shortName": "SOSM",
+        "type": "laboratory",
+        "parity": "always",
+        "location": "PR 606",
+        "startHour": "8",
+        "endHour": "10"
+    },
+    {
+        "name": "(SOSM) Sisteme de operare pentru sisteme mobile",
+        "shortName": "SOSM",
+        "type": "course",
+        "parity": "always",
+        "location": "PR 606",
+        "startHour": "10",
+        "endHour": "12"
+    }]
+}

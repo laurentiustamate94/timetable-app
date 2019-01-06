@@ -1,0 +1,155 @@
+{
+    "monday": [{
+        "name": "(II) Introducere in Informatica",
+        "shortName": "II",
+        "type": "laboratory",
+        "parity": "even",
+        "location": "ED 120",
+        "startHour": "8",
+        "endHour": "10"
+    },
+    {
+        "name": "(PL) Proiectare Logica",
+        "shortName": "PL",
+        "type": "course",
+        "parity": "always",
+        "location": "EC 105",
+        "startHour": "11",
+        "endHour": "14"
+    },
+    {
+        "name": "(IR) Istoria religiilor",
+        "shortName": "IR",
+        "type": "course",
+        "parity": "odd",
+        "location": "EC 002",
+        "startHour": "14",
+        "endHour": "16"
+    },
+    {
+        "name": "(II) Introducere in Informatica",
+        "shortName": "II",
+        "type": "course",
+        "parity": "even",
+        "location": "EC 105",
+        "startHour": "14",
+        "endHour": "16"
+    },
+    {
+        "name": "(IR) Istoria religiilor",
+        "shortName": "IR",
+        "type": "seminar",
+        "parity": "even",
+        "location": "BN 219",
+        "startHour": "16",
+        "endHour": "18"
+    }],
+    "tuesday": [{
+        "name": "(M1) Matematica 1",
+        "shortName": "M1",
+        "type": "seminar",
+        "parity": "always",
+        "location": "AN 217",
+        "startHour": "8",
+        "endHour": "10"
+    },
+    {
+        "name": "(USO) Utilizarea sistemelor de operare",
+        "shortName": "USO",
+        "type": "course",
+        "parity": "always",
+        "location": "EC 105",
+        "startHour": "10",
+        "endHour": "12"
+    },
+    {
+        "name": "(PC) Programarea calculatoarelor",
+        "shortName": "PC",
+        "type": "course",
+        "parity": "always",
+        "location": "AN 030",
+        "startHour": "12",
+        "endHour": "14"
+    },
+    {
+        "name": "(M2) Matematica 2",
+        "shortName": "M2",
+        "type": "course",
+        "parity": "always",
+        "location": "AN 030",
+        "startHour": "14",
+        "endHour": "17"
+    }],
+    "wednesday": [{
+        "name": "(PL) Proiectare logica",
+        "shortName": "PL",
+        "type": "laboratory",
+        "parity": "always",
+        "location": "EG 311",
+        "startHour": "8",
+        "endHour": "10"
+    },
+    {
+        "name": "(M2) Matematica 2",
+        "shortName": "M2",
+        "type": "seminar",
+        "parity": "always",
+        "location": "PR 003",
+        "startHour": "12",
+        "endHour": "14"
+    }],
+    "thursday": [{
+        "name": "(PC) Programarea calculatoarelor",
+        "shortName": "PC",
+        "type": "laboratory",
+        "parity": "always",
+        "location": "EG 205",
+        "startHour": "10",
+        "endHour": "12"
+    },
+    {
+        "name": "(M1) Matematica 1",
+        "shortName": "M1",
+        "type": "course",
+        "parity": "always",
+        "location": "A 02",
+        "startHour": "13",
+        "endHour": "16"
+    },
+    {
+        "name": "(GI) Grafica inginereasca",
+        "shortName": "GI",
+        "type": "course",
+        "parity": "odd",
+        "location": "AN 034",
+        "startHour": "16",
+        "endHour": "18"
+    },
+    {
+        "name": "(MEC) Mecanica",
+        "shortName": "MEC",
+        "type": "course",
+        "parity": "even",
+        "location": "AN 034",
+        "startHour": "16",
+        "endHour": "18"
+    }],
+    "friday": [{
+        "name": "(ENG) Engleza",
+        "shortName": "ENG",
+        "type": "seminar",
+        "parity": "odd",
+        "location": "AN 217",
+        "startHour": "12",
+        "endHour": "14"
+    },
+    {
+        "name": "(USO) Utilizarea sistemelor de operare",
+        "shortName": "USO",
+        "type": "laboratory",
+        "parity": "always",
+        "location": "EG 106",
+        "startHour": "14",
+        "endHour": "16"
+    }]
+}
