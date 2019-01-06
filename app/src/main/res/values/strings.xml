@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TimetableApp</string>
+
+    <!-- Strings related to initial activity -->
+    <string name="first_screen_text">Welcome to a better understanding of the timetable !</string>
+    <string name="start_process">Start</string>
+
+    <!-- Strings related to register -->
+    <string name="title_activity_register">Download schedules</string>
+    <string name="or_delimiter">OR</string>
+    <string name="prompt_bachelor">Bachelor group with parity (e.g. 314CAa)</string>
+    <string name="prompt_master">Master group with parity (e.g. 32SCPDa) </string>
+    <string name="action_download">Download (1–2min)</string>
+    <string name="action_download_short">OK</string>
+    <string name="error_invalid_bachelor">This group does not seem in the right format</string>
+    <string name="error_invalid_master">This group does not seem in the right format</string>
+    <string name="error_field_required">At least one of those have to exists</string>
+
+    <!-- Strings related to do it yourself -->
+    <string name="do_it_yourself_screen_text">PLACEHOLDER</string>
+    <string name="do_it_yourself_button">OK</string>
+
+    <!-- Strings related to agenda -->
+    <string name="title_activity_agenda">AgendaActivity</string>
+    <string name="action_settings">Restart registration</string>
+</resources>
